@@ -1,0 +1,6 @@
+Pipfile.lock
+Pipfile
+data
+.idea
+.Ds_Store
+__pycache__/
